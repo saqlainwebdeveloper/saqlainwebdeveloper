@@ -30,10 +30,8 @@ I Start from **HTML** and then learn **CSS**. After it i build many projects and
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saqlainwebdeveloper&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=saqlainwebdeveloper&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=saqlainwebdeveloper&icon=0&color=0)](https://visitcount.itsvg.in) 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=saqlainwebdeveloper&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
