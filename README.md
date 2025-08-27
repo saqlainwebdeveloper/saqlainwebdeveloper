@@ -25,6 +25,15 @@ I Start from **HTML** and then learn **CSS**. After it i build many projects and
 </div>
 
  
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=saqlainwebdeveloper&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=saqlainwebdeveloper&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=saqlainwebdeveloper&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=saqlainwebdeveloper&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 ### ✍️ Random Dev Quote
