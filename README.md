@@ -1,8 +1,6 @@
 # 💫 Hi 👋, I'm Muhammad Saqlain Shoukat
 **A passionate Frontend Developer || Programming Teacher || Coding Chat Room's Founder**
 
-Email Me 👉 ✉️ **saqlainshoukat500@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
 - 🔭 **I’m currently working on:** Coding Chat Room - A platform with 40+ Courses with Certificates
 - 🌱 **I’m currently learning:** Backend to make my career more strong
 - 🤔 **I’m looking for help with:** Follow my Youtube Channel
